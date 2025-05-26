@@ -173,6 +173,7 @@ appnexus.com, 7556, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7582, DIRECT, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7664, RESELLER
+appnexus.com, 806, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8219, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9284, RESELLER, f5ab79cb980f11d1
